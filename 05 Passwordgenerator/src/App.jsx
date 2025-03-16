@@ -7,6 +7,7 @@ function App() {
   return (
     <>
      <h1 className='text-yellow'>this is heading tag</h1>
+     <h2>hello world</h2>
     </>
   )
 }
